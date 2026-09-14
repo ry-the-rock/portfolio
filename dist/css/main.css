@@ -295,7 +295,8 @@ Version      : 1.0
 }
 
 .banner-no-slider {
-    height: 920px;
+  height: 920px;
+
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
