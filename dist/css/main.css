@@ -26,8 +26,10 @@ h3 {
   font-size: 64px;
   line-height: 72px;
   font-weight: 700;
-  font-family: "PT Serif", serif;
-  color: #272343;
+  /* font-family: "PT Serif", serif; */
+  font-family: "Rock 3D", system-ui;
+
+  color: #fc4831;
 }
 
 h4 {
