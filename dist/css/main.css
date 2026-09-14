@@ -2,10 +2,11 @@
 
 /* ADDED */
 @import url("https://fonts.googleapis.com/css2?family=Rock+3D&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap");
+
 
 
 .email {
-  font-size: 16px;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
 }
@@ -44,7 +45,9 @@ h3 {
   line-height: 72px;
   font-weight: 700;
   /* font-family: "PT Serif", serif; */
-  font-family: "Rock 3D", system-ui;
+  /* font-family: "Rock 3D", system-ui; */
+  font-family: "Kirang Haerang", system-ui;
+
 
   color: #d40000;
 }
@@ -54,7 +57,9 @@ h4 {
   line-height: 48px;
   font-weight: 700;
   /* font-family: "PT Serif", serif; */
-  font-family: "Rock 3D", system-ui;
+  /* font-family: "Rock 3D", system-ui; */
+  font-family: "Kirang Haerang", system-ui;
+
 
   color: #272343;
 }
