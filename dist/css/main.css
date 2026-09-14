@@ -180,7 +180,7 @@ Version      : 1.0
   left: 0;
   width: 112px;
   height: 4px;
-  background-color: #FB743E;
+  background-color: #fc4831;
 }
 
 .latest-post-area {
@@ -222,7 +222,7 @@ Version      : 1.0
 }
 
 .featured-category-item a:hover {
-  background-color: #FB743E;
+  background-color: #fc4831;
   color: white;
 }
 
@@ -246,7 +246,7 @@ Version      : 1.0
 }
 
 .all-tags-list a:hover {
-  background-color: #FB743E;
+  background-color: #fc4831;
   color: white;
 }
 
@@ -349,7 +349,7 @@ Version      : 1.0
 
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  background-color: #FB743E;
+  background-color: #fc4831;
   color: transparent;
 }
 
@@ -391,7 +391,7 @@ Version      : 1.0
 .slick-prev:focus,
 .slick-next:hover,
 .slick-next:focus {
-  background-color: #FB743E;
+  background-color: #fc4831;
 }
 
 @media (max-width: 420px) {
@@ -578,7 +578,7 @@ Version      : 1.0
 }
 
 .search-area-input input:focus {
-  border: 2px solid #FB743E;
+  border: 2px solid #fc4831;
 }
 
 .search-area-input svg {
@@ -732,7 +732,7 @@ Version      : 1.0
 
 .blogy-counts svg {
   margin-right: 10px;
-  color: #FB743E;
+  color: #fc4831;
 }
 
 .blogy-counts span {
@@ -775,7 +775,7 @@ Version      : 1.0
   content: '';
   top: 0;
   left: 0;
-  background-color: #FB743E;
+  background-color: #fc4831;
   height: 100%;
   width: 3px;
 }
@@ -865,7 +865,7 @@ Version      : 1.0
   content: '';
   bottom: 0;
   left: 0;
-  background-color: #FB743E;
+  background-color: #fc4831;
   width: 112px;
   height: 4px;
 }
@@ -880,7 +880,7 @@ Version      : 1.0
 }
 
 .blog-item-feature-heading a:hover {
-  color: #FB743E;
+  color: #fc4831;
 }
 
 .comments-area {
@@ -902,7 +902,7 @@ Version      : 1.0
 }
 
 .comments-area input:focus {
-  border-color: #FB743E;
+  border-color: #fc4831;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -920,7 +920,7 @@ Version      : 1.0
 }
 
 .comments-area textarea:focus {
-  border-color: #FB743E;
+  border-color: #fc4831;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -1084,12 +1084,12 @@ Version      : 1.0
 }
 
 ::-moz-selection {
-  background-color: #FB743E;
+  background-color: #fc4831;
   color: white;
 }
 
 ::selection {
-  background-color: #FB743E;
+  background-color: #fc4831;
   color: white;
 }
 
@@ -1132,7 +1132,7 @@ Version      : 1.0
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   left: 0;
-  background-color: #FB743E;
+  background-color: #fc4831;
   height: 2px;
   width: 24px;
 }
@@ -1148,7 +1148,7 @@ Version      : 1.0
 .btn-default {
   height: 66px;
   padding: 0px 40px;
-  background-color: #FB743E;
+  background-color: #fc4831;
   color: white;
   border-radius: 0px;
   font-family: "Poppins", sans-serif;
@@ -1181,11 +1181,11 @@ Version      : 1.0
 }
 
 .btn-link:hover {
-  color: #FB743E;
+  color: #fc4831;
 }
 
 .btn-link:hover svg {
-  color: #FB743E;
+  color: #fc4831;
   margin-left: 10px;
 }
 
@@ -1211,8 +1211,8 @@ Version      : 1.0
 
 .social-links a:hover {
   color: white;
-  border-color: #FB743E;
-  background-color: #FB743E;
+  border-color: #fc4831;
+  background-color: #fc4831;
 }
 
 .header {
@@ -1247,7 +1247,7 @@ Version      : 1.0
 .header .menu-btn-lines, .header .menu-btn-lines::after, .header .menu-btn-lines::before {
   width: 1.5rem;
   height: 0.1rem;
-  background-color: #FB743E;
+  background-color: #fc4831;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -1311,7 +1311,7 @@ Version      : 1.0
 }
 
 .header .main-menu-items li .active-item {
-  color: #FB743E !important;
+  color: #fc4831 !important;
 }
 
 .header .main-menu-items li a {
@@ -1332,13 +1332,13 @@ Version      : 1.0
   left: 0;
   height: 2px;
   width: 0;
-  background-color: #FB743E;
+  background-color: #fc4831;
   -webkit-transition: 0.3s all linear;
   transition: 0.3s all linear;
 }
 
 .header .main-menu-items li a:hover {
-  color: #FB743E;
+  color: #fc4831;
 }
 
 .header .main-menu-items li a.active-item::after, .header .main-menu-items li a:hover::after {
@@ -1361,7 +1361,7 @@ Version      : 1.0
 }
 
 .header .main-menu .header-searchbar input:focus {
-  border: 2px solid #FB743E;
+  border: 2px solid #fc4831;
 }
 
 .header .main-menu .header-searchbar svg {
@@ -1428,7 +1428,7 @@ Version      : 1.0
 }
 
 .blog-item-info h5 a:hover {
-  color: #FB743E;
+  color: #fc4831;
   text-decoration: underline !important;
 }
 
@@ -1454,7 +1454,7 @@ Version      : 1.0
 }
 
 .post-feature:hover {
-  background-color: #FB743E;
+  background-color: #fc4831;
 }
 
 .post-feature:hover .dot,
@@ -1542,7 +1542,7 @@ footer .footer-wizard-form input {
 }
 
 footer .footer-wizard-form input:focus {
-  border: 2px solid #FB743E;
+  border: 2px solid #fc4831;
 }
 
 footer .footer-wizard-form ::-webkit-input-placeholder {
