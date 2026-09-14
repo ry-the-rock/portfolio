@@ -11,7 +11,7 @@
   font-family: "Poppins", sans-serif;
 }
 
-.email a:link {
+.email a {
   color: #d40000;
   background-color: transparent;
 }
@@ -1340,7 +1340,7 @@ Version      : 1.0
   color:#272343
 }
 
-.main-menu-name a:link {
+.main-menu-name a {
   color: #272343;
   background-color: transparent;
 }
