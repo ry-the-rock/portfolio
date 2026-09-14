@@ -10,7 +10,8 @@
 .email {
   font-size: 16px;
   font-weight: 400;
-  font-family: "Poppins", sans-serif;}
+  font-family: "Poppins", sans-serif;
+}
 
 .email a:link {
   color: #d40000;
