@@ -269,6 +269,8 @@ Version      : 1.0
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-align: center;
+
 }
 
 .banner-content-main {
