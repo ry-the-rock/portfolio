@@ -7,6 +7,21 @@
   font-weight: 400;
   font-style: normal;
 }
+a:link {
+  color: #d40000;
+  background-color: transparent;
+}
+
+a:visited {
+  color: #d40000;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #d40000;
+  background-color: transparent;
+  text-decoration: underline;
+}
 /* ADDED END */
 
 body {
