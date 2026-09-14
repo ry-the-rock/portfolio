@@ -47,6 +47,7 @@ h3 {
   /* font-family: "PT Serif", serif; */
   /* font-family: "Rock 3D", system-ui; */
   font-family: "Kirang Haerang", system-ui;
+  text-transform: uppercase;
 
 
   color: #d40000;
@@ -59,6 +60,8 @@ h4 {
   /* font-family: "PT Serif", serif; */
   /* font-family: "Rock 3D", system-ui; */
   font-family: "Kirang Haerang", system-ui;
+  text-transform: uppercase;
+
 
 
   color: #272343;
