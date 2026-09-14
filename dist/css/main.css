@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap");
 
 /* ADDED */
 @import url('https://fonts.googleapis.com/css2?family=Rock+3D&display=swap');
@@ -7,6 +6,12 @@
   font-weight: 400;
   font-style: normal;
 }
+
+.email {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;}
+
 .email a:link {
   color: #d40000;
   background-color: transparent;
@@ -26,7 +31,6 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  font-family: 'PT Serif', serif;
 }
 
 .fs-5 {
@@ -51,7 +55,7 @@ h4 {
   font-size: 40px;
   line-height: 48px;
   font-weight: 700;
-  font-family: "PT Serif", serif;
+  /* font-family: "PT Serif", serif; */
   font-family: "Rock 3D", system-ui;
 
   color: #272343;
@@ -70,7 +74,7 @@ h6 {
   font-size: 28px;
   line-height: 36px;
   font-weight: 700;
-  font-family: "PT Serif", serif;
+  /* font-family: "PT Serif", serif; */
   color: #272343;
 }
 
@@ -820,7 +824,7 @@ Version      : 1.0
   font-size: 24px;
   color: #272343;
   font-weight: 400;
-  font-family: "PT Serif", serif;
+  /* font-family: "PT Serif", serif; */
   margin-bottom: 8px;
 }
 
