@@ -434,7 +434,7 @@ Version      : 1.0
   }
 
   .banner .container{
-    height: 120%
+    height: 75%
   }
   
   .banner-content-main h4 {
@@ -447,10 +447,12 @@ Version      : 1.0
   /* .slick-dots li button::before {
     background-color: white !important;
   } */
-  .banner-slider {
+
+  /* TEST */
+  /* .banner-slider {
     height: auto;
     padding: 30px 0px 60px 0px;
-  }
+  } */
 
   
   /* .slick-prev,
@@ -491,10 +493,14 @@ Version      : 1.0
   /* .slick-dots li button::before {
     background-color: white !important;
   } */
-  .banner-slider {
+
+  /* TEST */
+  /* .banner-slider {
     height: auto;
     padding: 30px 0px 60px 0px;
-  }
+  } */
+
+
   /* .slick-prev,
   .slick-next {
     top: 95%;
@@ -530,10 +536,14 @@ Version      : 1.0
   /* .slick-dots li button::before {
     background-color: white !important;
   } */
-  .banner-slider {
+
+  /* TEST */
+  /* .banner-slider {
     height: auto;
     padding: 30px 0px 60px 0px;
-  }
+  } */
+
+
   /* .slick-prev,
   .slick-next {
     top: 95%;
@@ -566,9 +576,12 @@ Version      : 1.0
   .banner-content-main h4 {
     line-height: 56px;
   }
-  .banner-slider {
+
+  /* TEST */
+  /* .banner-slider {
     height: 90vh;
-  }
+  } */
+   
   /* .slick-dots li button::before {
     background-color: white !important;
   } */
