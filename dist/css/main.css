@@ -1806,12 +1806,16 @@ footer .copy-right p a:hover {
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
-  .section-padding {
-    padding: 40px 0px;
-  }
-
-  .blog-item-image a img {
+  .blog-item-sm .blog-item-image {
     width: 100%;
   }
+  .blog-item-sm .blog-item-image img {
+    width: 100%;
+  }
+
+  .section-padding {
+    padding: 50px 0px;
+  }
+
 }
 /*# sourceMappingURL=main.css.map */
