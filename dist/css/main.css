@@ -1430,7 +1430,7 @@ Version      : 1.0
 
 .blog-item-sm .blog-item-info {
   margin-top: -40px;
-  max-width: 400px;
+  max-width: 100%;
   /* 397px */
 }
 
