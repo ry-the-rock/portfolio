@@ -1438,7 +1438,7 @@ Version      : 1.0
 }
 
 .blog-item-image {
-  width: 83%;
+  width: 100%;
 }
 
 .blog-item-image a {
@@ -1808,6 +1808,10 @@ footer .copy-right p a:hover {
 @media (min-width: 992px) and (max-width: 1200px) {
   .section-padding {
     padding: 50px 0px;
+  }
+
+  .blog-item-image a img {
+    width: 100%;
   }
 }
 /*# sourceMappingURL=main.css.map */
