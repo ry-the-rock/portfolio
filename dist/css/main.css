@@ -12,7 +12,7 @@
 }
 
 .my-link a {
-  color: #d40000;
+  color: #d40000 !important;
   background-color: transparent;
 }
 
