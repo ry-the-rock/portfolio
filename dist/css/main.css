@@ -97,7 +97,7 @@ p, ol, ul, li {
   h5 {
     font-size: 24px;
   }
-  p, li, ul, ol {
+  p, ol, ul, li {
     font-size: 14px;
   }
   
@@ -793,7 +793,7 @@ Version      : 1.0
   margin-bottom: 10px;
 }
 
-.blog-article-end p {
+.blog-article-end p, ol, ul, li {
   margin-bottom: 20px;
   font-size: 18px;
   line-height: 27px;
