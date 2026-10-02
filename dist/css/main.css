@@ -38,6 +38,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  color: #6D7280;
 }
 
 .fs-5 {
@@ -98,24 +99,6 @@ p {
   font-family: "Poppins", sans-serif;
 }
 
-li {
-  font-size: 16px;
-  font-weight: 400;
-  font-family: "Poppins", sans-serif;
-}
-
-ol {
-  font-size: 16px;
-  font-weight: 400;
-  font-family: "Poppins", sans-serif;
-}
-
-ul {
-  font-size: 16px;
-  font-weight: 400;
-  font-family: "Poppins", sans-serif;
-}
-
 @media (max-width: 420px) {
   h3 {
     font-size: 30px;
@@ -131,6 +114,8 @@ ul {
   p {
     font-size: 14px;
   }
+  
+
   .fs-6 {
     font-size: 14px !important;
   }
