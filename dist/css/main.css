@@ -16,29 +16,8 @@
   background-color: transparent;
 }
 
-/* .banner-background-img {
-  background-repeat: no-repeat;
-  background-position: right;
-  background-size: auto 50%;
-} */
-
-
-
-/* .email a:visited {
-  color: #d40000;
-  background-color: transparent;
-}
-
-.email a:hover {
-  color: #d40000;
-  background-color: transparent;
-  text-decoration: underline;
-} */
-/* ADDED END */
-
 body {
   font-family: 'Poppins', sans-serif;
-  color: #6D7280;
 }
 
 .fs-5 {
@@ -94,9 +73,11 @@ h6 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 16px !important;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
+   color: #6D7280 !important;
+
 }
 
 @media (max-width: 420px) {
