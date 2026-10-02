@@ -98,6 +98,24 @@ p {
   font-family: "Poppins", sans-serif;
 }
 
+li {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+
+ol {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+
+ul {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+
 @media (max-width: 420px) {
   h3 {
     font-size: 30px;
