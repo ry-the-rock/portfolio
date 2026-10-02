@@ -18,7 +18,6 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  font-size:16px;
 }
 
 .fs-5 {
@@ -49,7 +48,8 @@ h4 {
   /* font-family: "PT Serif", serif; */
   /* font-family: "Rock 3D", system-ui; */
   /* font-family: "Kirang Haerang", system-ui; */
-  font-family: 'Poppins', sans-serif;
+  font-family: "Kirang Haerang", system-ui;
+  text-transform: uppercase;
 
   /* text-transform: uppercase; */
 
@@ -77,11 +77,11 @@ h6 {
   color: #272343;
 }
 
-p {
+p, ol, ul, li {
   font-size: 16px;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
-   color: #494B5C !important;
+  color: #494B5C;
 
 }
 
@@ -97,7 +97,7 @@ p {
   h5 {
     font-size: 24px;
   }
-  p {
+  p, li, ul, ol {
     font-size: 14px;
   }
   
